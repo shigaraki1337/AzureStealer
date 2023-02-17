@@ -1,2 +1,10 @@
-# AzureStealer
-<img src="https://media.discordapp.net/attachments/1073366575140323439/1074475173966790707/Sans_titre.png?width=703&height=702>
+> # Features
+
+* Grab in : opera , brave , google , firefox and egde
+* Capture all important data
+* Fully open source
+
+> # Disclaimer
+
+* ***Use This tool only for Educational Prupose***
+* ***I decline all responsibility***
